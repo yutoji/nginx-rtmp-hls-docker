@@ -24,3 +24,6 @@ Docker image with Nginx using the nginx-rtmp-module module for live multimedia (
     or open HLS file directory via:
     
     ```http://0.0.0.0/hls/test.m3u8```
+
+## Screenshot
+![Web client and OBS](https://user-images.githubusercontent.com/43261614/46710499-0f0b9700-cc83-11e8-9310-154713dff850.png)
