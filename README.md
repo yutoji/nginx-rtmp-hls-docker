@@ -9,7 +9,7 @@ Docker image with Nginx using the nginx-rtmp-module module for live multimedia (
 
 2. Run a container
 
-    ```docker run -p 80:80 -p 1935:1935 -d -it nginx-rtmp-hls```
+    ```docker run -d -p 80:80 -p 1935:1935 nginx-rtmp-hls```
 
 3. Start casting via streaming software like [OBS](https://obsproject.com)
 
