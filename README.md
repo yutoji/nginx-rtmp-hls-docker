@@ -20,7 +20,7 @@ Docker image with Nginx using the nginx-rtmp-module module for live multimedia (
 5. Open web browser and access to:
 
     ```http://0.0.0.0/```
-
-or open HLS file directory via:
-
+    
+    or open HLS file directory via:
+    
     ```http://0.0.0.0/hls/test.m3u8```
